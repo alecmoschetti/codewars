@@ -1,0 +1,21 @@
+{
+  "name": "printer_errs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --config ./jest.config.json",
+    "test:watch": "npm run test -- --watchAll"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Alec Moschetti <alecmoschetti@gmail.com> (https://github.com/alecmoschetti)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}
