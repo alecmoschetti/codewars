@@ -1,4 +1,4 @@
-# codewars solutions
+# codewars solutions 🧙🏼‍♂️
 ## Disclaimer: If looking for answers to your kata, please make sure that you've:
 * given it a solid try.
 * googled general methods of things you're trying to do.
@@ -11,7 +11,7 @@
 * add any relevant links or comments 
 * refactor old / embarassing solutions
 
-# Yo 🕺
+## Yo 🕺
 
 Thanks for looking at my codewars repository. Like many others learning to program, my earlier attempts could be more efficient or could have better variable naming, etc. 
 
