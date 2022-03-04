@@ -5,15 +5,6 @@
 * taken a walk, given it some space and time. 
 * are looking for a guide / inspiration instead of copy / paste.
 
-## todo:
-### active:
-- [ ] separate challenges by rank (kata).
-- [ ] add any relevant links or comments 
-- [ ] refactor old / embarassing solutions
-### completed: 
-- [x] add my Rust directories.
-
-
 ## Yo 🕺
 
 Thanks for looking at my codewars repository. Like many others learning to program, my earlier attempts could be more efficient or could have better variable naming, etc. 
@@ -27,6 +18,15 @@ Here are the links to those directories:
 
 * [js]
 * [rust]
+
+## todo:
+### active:
+- [ ] separate challenges by rank (kata).
+- [ ] add any relevant links or comments 
+- [ ] refactor old / embarassing solutions
+### completed: 
+- [x] add my Rust directories.
+
 
 [js]: https://github.com/alecmoschetti/codewars/tree/main/js
 [rust]: https://github.com/alecmoschetti/codewars/tree/main/rust
