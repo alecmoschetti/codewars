@@ -5,11 +5,14 @@
 * taken a walk, given it some space and time. 
 * are looking for a guide / inspiration instead of copy / paste.
 
-### Still todo: 
-* add my Rust directories.
-* separate challenges by rank (kata).
-* add any relevant links or comments 
-* refactor old / embarassing solutions
+## todo:
+### active:
+- [ ] separate challenges by rank (kata).
+- [ ] add any relevant links or comments 
+- [ ] refactor old / embarassing solutions
+### completed: 
+- [x] add my Rust directories.
+
 
 ## Yo 🕺
 
@@ -26,4 +29,4 @@ Here are the links to those directories:
 * [rust]
 
 [js]: https://github.com/alecmoschetti/codewars/tree/main/js
-[rust]: https://github.com/alecmoschetti/codewars
+[rust]: https://github.com/alecmoschetti/codewars/tree/main/rust
