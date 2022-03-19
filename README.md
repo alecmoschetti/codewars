@@ -21,12 +21,11 @@ Here are the links to those directories:
 
 ## todo:
 ### active:
-- [ ] separate challenges by rank (kata).
 - [ ] add any relevant links or comments 
 - [ ] refactor old / embarassing solutions
 ### completed: 
 - [x] add my Rust directories.
-
+- [x] separate challenges by rank (kata).
 
 [js]: https://github.com/alecmoschetti/codewars/tree/main/js
 [rust]: https://github.com/alecmoschetti/codewars/tree/main/rust
